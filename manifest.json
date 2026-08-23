@@ -1,0 +1,17 @@
+{
+  "name": "Prompts JUS IA — Vara Única de Bujari",
+  "short_name": "Prompts JUS IA",
+  "description": "Biblioteca de prompts jurídicos por competência, prontos para copiar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f3ea",
+  "theme_color": "#1c2b26",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
